@@ -1,4 +1,4 @@
 package com.games.blackjack;
 
-class Dealer {
+public class Dealer {
 }
